@@ -1,3 +1,6 @@
+Changed in Clone branch
+
 gsutil web set -m index.html  gs://mywebsitevk85
 
 Added in Master Branch
+
